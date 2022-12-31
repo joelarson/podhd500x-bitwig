@@ -7,12 +7,12 @@
     "tslib": "^1.8.0"
   },
   "devDependencies": {
-    "bitwig-webpack-plugin": "^1.0.1",
+    "bitwig-webpack-plugin": "^2.0.0",
     "case-sensitive-paths-webpack-plugin": "^2.1.1",
-    "copy-webpack-plugin": "^4.2.3",
-    "ts-loader": "^3.1.1",
+    "copy-webpack-plugin": "^11.0.0",
+    "ts-loader": "^9.4.2",
     "typed-bitwig-api": "^2.1.2",
     "typescript": "^2.6.1",
-    "webpack": "^3.8.1"
+    "webpack": "^5.75.0"
   }
 }
